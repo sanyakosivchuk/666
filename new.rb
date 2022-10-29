@@ -1,3 +1,3 @@
 puts "hello giganigga"
-osem = 2+4
-puts osem
+six = 2+4
+puts six
